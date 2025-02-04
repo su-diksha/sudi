@@ -1,0 +1,13 @@
+#i1{
+  text-align: center;
+  background: none;
+  background-color: none;
+}
+#p1{
+  text-align: center;
+  font-style: italic;
+  font-weight: 300;
+  text-size-adjust: 30px ;
+  text-decoration-color: pink;
+  text-shadow: 25px yellow;
+}
